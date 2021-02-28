@@ -54,6 +54,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 📈 My GitHub Stats
-==============<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/6569/screenshots/15051410/media/4fc0d807ed5a350887a47b1af60f5bf7.png?compress=1&resize=1000x750" width="400" height="220"  />
+==========><img align="center" alt="GIF" src="https://cdn.dribbble.com/users/6569/screenshots/15051410/media/4fc0d807ed5a350887a47b1af60f5bf7.png?compress=1&resize=1000x750" width="400" height="220"  />
 
 
