@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 <br />
-Hi, I'm Jonathan Jacobe Montes, a passionate Full Stack web developer and systems engineer. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, the architecture and the quality of the code of the things I build.
+Hi, I'm Jonathan Jacobe Montes, a passionate Full Stack developer and systems engineer. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, the architecture and the quality of the code of the things I build.
 
 I have experience in e-commerce, database, javascript, c ++, html, css, php, react, laravel and project management.I consider myself a sociable, proactive, organized, results-oriented person, easy to work in a team and a desire to constantly learn.
 
