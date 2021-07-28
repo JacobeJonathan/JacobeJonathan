@@ -1,5 +1,5 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### <video src="https://cdn.dribbble.com/users/1712603/screenshots/11180012/media/81066ff4c0f67bb2d35c738e338adec5.mp4" width=320  height=240 controls poster="vistaprevia.jpg">
+### <img align="right" alt="GIF" src="https://uploads-ssl.webflow.com/5c99a2b7f7d06d83b8d7d285/5cab03cdd636b72c9e612e31_Ava%20Wave%20wink%20Animation%20with%20shadow.gif" width="300" height="320">
 
 ### <img src="https://whitneyacosta.github.io/Disenodesitios-web/img/github2.png" width="50"> A little more about me...  
 
