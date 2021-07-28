@@ -1,7 +1,7 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### <img align='right' src="https://media4.giphy.com/media/JmCGrgywKzg0oaI4ub/giphy.gif" width="230">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXLYTA1oc-b-qDYeRdj5crmNvUAAugIXAn-w&usqp=CAU" width="50"> A little more about me...  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 <br />
