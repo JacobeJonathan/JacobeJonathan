@@ -1,7 +1,7 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### <img align='right' src="https://media4.giphy.com/media/JmCGrgywKzg0oaI4ub/giphy.gif" width="230">
 
-### <img src="https://www.iebschool.com/blog/wp-content/uploads/2016/02/Taco_Party_4.gif" width="50"> A little more about me...  
+### <img src="https://whitneyacosta.github.io/Disenodesitios-web/img/github2.png" width="50"> A little more about me...  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 <br />
