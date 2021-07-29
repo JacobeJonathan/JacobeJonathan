@@ -44,7 +44,7 @@ other        y - hrs          ████████████████�
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.linkedin.com/in/jonathanjacobemontes/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.linkedin.com/in/jonathanjacobemontes/" target="_blank"><img src="https://i.ibb.co/KscnHXp/coffe.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **The 3 laws that primarily governed the Inca empire in Peru are:**
 <!-- TODO-IST:START -->
