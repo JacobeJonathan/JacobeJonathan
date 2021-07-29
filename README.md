@@ -7,7 +7,7 @@
 <br />
 Hi, I'm Jonathan Jacobe Montes, a passionate Full Stack developer and systems engineer. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, the architecture and the quality of the code of the things I build.
 
-I have experience in e-commerce, database, javascript, c ++, html, css, php, react, laravel and project management.I consider myself a sociable, proactive, organized, results-oriented person, easy to work in a team and a desire to constantly learn.
+I have experience in e-commerce, sqlserver, javascript, c ++, html, css, php, android studio, laravel and project management.I consider myself a sociable, proactive, organized, results-oriented person, easy to work in a team and a desire to constantly learn.
 
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/3pAQUswTjSVEL39Fsc/giphy.gif" width="400" height="220" />
