@@ -1,5 +1,5 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Jonathan Jacobe - software engineer, content creator and community organizer alongside a cartoon illustration of Jonathan">
 
 <h2 style="color:orange;">Hi, I'm Jonathan Jacobe</h2>  
 
