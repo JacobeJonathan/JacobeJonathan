@@ -12,8 +12,8 @@ I have experience in e-commerce, sqlserver, javascript, c ++, html, css, php, an
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/3pAQUswTjSVEL39Fsc/giphy.gif" width="400" height="220" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: 
+- 💬 Ask me about anything: I am happy to help.
+- 📫 How to reach me: Jonathan Jacobe.
 - ✨ **Wanna Talk?** 
 - 📝 [Resume]
 
