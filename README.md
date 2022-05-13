@@ -1,5 +1,5 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img src="https://i.ibb.co/TrLTV7R/portadajonathanillustration.png" width="1400px" alt="banner that says Jonathan Jacobe - software engineer, content creator and community organizer alongside a cartoon illustration of Jonathan">
+<img src="https://i.ibb.co/TrLTV7R/portadajonathanillustration.png" width="1350px" height="190px" alt="banner that says Jonathan Jacobe - software engineer, content creator and community organizer alongside a cartoon illustration of Jonathan">
 
 <h2 style="color:orange;">More about me</h2>  
 
