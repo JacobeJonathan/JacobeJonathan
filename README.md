@@ -48,7 +48,7 @@ other        y - hrs          ████████████████�
 ✅  Ama quella - Don't be idle.          
 <!-- TODO-IST:END -->
 
-<a href="https://www.linkedin.com/in/jonathanjacobemontes/" target="_blank"><img src="https://i.ibb.co/KscnHXp/coffe.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.linkedin.com/in/jonathanjacobemontes/" target="_blank"><img src="https://i.ibb.co/09jMCcg/linkedin.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
