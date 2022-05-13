@@ -1,12 +1,11 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-### <img src="https://whitneyacosta.github.io/Disenodesitios-web/img/github2.png" width="50"> 
-<h2 style="color:orange;">A little more about me...</h2>  
+<h2 style="color:orange;">Hi, I'm Jonathan Jacobe</h2>  
 
 
 
-Hi, I'm Jonathan Jacobe Montes, a passionate Full Stack developer and systems engineer. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, the architecture and the quality of the code of the things I build.
+I´m systems engineer and CCNA. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, the architecture and the quality of the code of the things I build.
 
 I have experience in e-commerce, sqlserver, javascript, c ++, html, css, php, android studio, laravel and project management.I consider myself a sociable, proactive, organized, results-oriented person, easy to work in a team and a desire to constantly learn.
 
