@@ -1,4 +1,4 @@
-### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+<!--### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> -->
 <a align="center" href="https://jacobejonathan.github.io/JonathanJacobe/" target="_blank"><img src="https://i.ibb.co/przFNZk/jonathanjacobe.png" width="800px" height="150px" alt="banner that says Jonathan Jacobe - software engineer, content creator and community organizer alongside a cartoon illustration of Jonathan" target="_blank"></a>
 
 <h2 style="color:orange;">More about me</h2>  
