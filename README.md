@@ -1,5 +1,5 @@
 <!--### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> -->
-<a align="center" href="https://jacobejonathan.github.io/JonathanJacobe/" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f8fb60125864659.612229e839557.jpg" width="800px" height="250px" alt="banner that says Jonathan Jacobe - software engineer, content creator and community organizer alongside a cartoon illustration of Jonathan" target="_blank"></a>
+<a align="center" href="https://jacobejonathan.github.io/JonathanJacobe/" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f8fb60125864659.612229e839557.jpg" width="800px" height="200px" alt="banner that says Jonathan Jacobe - software engineer, content creator and community organizer alongside a cartoon illustration of Jonathan" target="_blank"></a>
 
 <h2 style="color:orange;">More about me</h2>  
 
