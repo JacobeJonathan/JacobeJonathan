@@ -1,5 +1,5 @@
 <!--### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> -->
-<a align="center" href="https://jacobejonathan.github.io/JonathanJacobe/" target="_blank"><img src="https://www.grupoioe.es/wp-content/uploads/2020/02/machine-learning-cab-1024x494.jpg" width="800px" height="200px" alt="banner that says Jonathan Jacobe - software engineer, content creator and community organizer alongside a cartoon illustration of Jonathan" target="_blank"></a>
+<a align="center" href="https://jacobejonathan.github.io/JonathanJacobe/" target="_blank"><img src="https://innovayaccion.com/wp-content/uploads/2021/03/MACHINE-LEARNING-H2.jpg" width="800px" height="200px" alt="banner that says Jonathan Jacobe - software engineer, content creator and community organizer alongside a cartoon illustration of Jonathan" target="_blank"></a>
 
 <h2 style="color:orange;">More about me</h2>  
 
