@@ -3,12 +3,7 @@
 
 <h2 style="color:orange;">More about me</h2>  
 
-
-
-I´m systems engineer. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, the architecture and the quality of the code of the things I build.
-
-I have experience in e-commerce, sqlserver, javascript, c ++, html, css, php, android studio, laravel and project management.I consider myself a sociable, proactive, organized, results-oriented person, easy to work in a team and a desire to constantly learn.
-
+Soy Ingeniero de sistemas e informática con experiencia en Tecnología de la información. Me destaco por mi capacidad de comunicación fluida, liderazgo y motivación del equipo en la consecución de objetivos. Poseo habilidades en Business Intelligence, administración de base de datos, análisis de datos y solución de problemas de TI, así como una dedicación absoluta para conseguir y mantener altos niveles de calidad en los proyectos en los que participo. Siempre dispuesto a aprender nuevas tecnologías y estoy en constante búsqueda de oportunidades para seguir creciendo profesionalmente.
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/3pAQUswTjSVEL39Fsc/giphy.gif" width="400" height="220" />
   
@@ -29,12 +24,12 @@ I have experience in e-commerce, sqlserver, javascript, c ++, html, css, php, an
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   y - hrs - mins   ███████████████░░░░░░░░░░   70.88 % 
-C++          y - hrs - mins   █████████████████████████   100.0 % 
-CSS          y - hrs - mins   ██████████████████████░░░   80.18 % 
-php          y - hrs          ███████░░░░░░░░░░░░░░░░░    25.77 % 
-html         y - hrs          █████████████████████████   100.0 % 
-other        y - hrs          █████████████████████████   15.72 % 
+PowerBI   y - hrs - mins   ███████████████░░░░░░░░░░   70.88 % 
+SQL       y - hrs - mins   █████████████████████████   100.0 % 
+Pyhton    y - hrs - mins   ██████████████████████░░░   80.18 % 
+R         y - hrs          ███████░░░░░░░░░░░░░░░░░    25.77 % 
+Pentaho   y - hrs          █████████████████████████   100.0 % 
+Tableu    y - hrs          █████████████████████████   15.72 % 
 ```
 <!--END_SECTION:waka-->
 🚧 **The 3 laws that primarily governed the Inca empire in Peru are:**
