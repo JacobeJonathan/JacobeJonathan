@@ -8,7 +8,7 @@ Soy Ingeniero de sistemas e informática con experiencia en Tecnología de la in
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/3pAQUswTjSVEL39Fsc/giphy.gif" width="400" height="220" />
   
 - 💬 Ask me about anything: I am happy to help.
-- 📫 How to reach me: Jonathan Jacobe.
+- 📫 How to reach me: Jonathan Jacobe Montes.
 - ✨ **Wanna Talk?** 
 - 📝 [Resume]
 
