@@ -35,7 +35,7 @@ Tableu    y - hrs          █████████████████�
 ✅  Ama quella - Don't be idle.          
 <!-- TODO-IST:END -->
 
-<a align="center" href="https://www.linkedin.com/in/jonathanjacobemontes/" target="_blank"><img align="center" src="https://i.ibb.co/09jMCcg/linkedin.png" alt="Buy Me A Coffee" width="30" target="_blank"></a>
+<a align="center" href="https://www.linkedin.com/in/jonathanjacobe-montes/" target="_blank"><img align="center" src="https://i.ibb.co/09jMCcg/linkedin.png" alt="Buy Me A Coffee" width="30" target="_blank"></a>
 
 
 
