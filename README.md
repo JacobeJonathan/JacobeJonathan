@@ -23,8 +23,8 @@ Soy Ingeniero de sistemas e informática colegiado, con  experiencia en Analisis
 PowerBI   y - hrs - mins   ███████████████░░░░░░░░░░   70.88 % 
 SQL       y - hrs - mins   █████████████████████████   100.0 % 
 Pyhton    y - hrs - mins   ██████████████████████░░░   80.18 % 
-R         y - hrs          ███████░░░░░░░░░░░░░░░░░    25.77 % 
-Pentaho   y - hrs          █████████████████████████   100.0 % 
+DAX       y - hrs          ███████░░░░░░░░░░░░░░░░░    57.77 % 
+EXCEL     y - hrs          █████████████████████████   98.0 % 
 Tableu    y - hrs          █████████████████████████   15.72 % 
 ```
 <!--END_SECTION:waka-->
@@ -35,7 +35,7 @@ Tableu    y - hrs          █████████████████�
 ✅  Ama quella - Don't be idle.          
 <!-- TODO-IST:END -->
 
-<a align="center" href="https://www.linkedin.com/in/jonathanjacobe-montes/" target="_blank"><img align="center" src="https://i.ibb.co/09jMCcg/linkedin.png" alt="Buy Me A Coffee" width="30" target="_blank"></a>
+<a align="center" href="https://www.linkedin.com/in/jonathanjacobe-montes/](https://www.linkedin.com/in/jonathanjacobemontes-/" target="_blank"><img align="center" src="https://i.ibb.co/09jMCcg/linkedin.png" alt="Buy Me A Coffee" width="30" target="_blank"></a>
 
 
 
