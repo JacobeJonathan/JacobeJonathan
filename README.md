@@ -22,7 +22,7 @@ Soy Ingeniero de sistemas e informática colegiado, con  experiencia en Analisis
 ```text
 PowerBI   y - hrs - mins   ███████████████░░░░░░░░░░   70.88 % 
 SQL       y - hrs - mins   █████████████████████████   100.0 % 
-Pyhton    y - hrs - mins   ██████████████████████░░░   80.18 % 
+Python    y - hrs - mins   ██████████████████████░░░   80.18 % 
 DAX       y - hrs          ███████░░░░░░░░░░░░░░░░░    57.77 % 
 EXCEL     y - hrs          █████████████████████████   98.0 % 
 IA        y - hrs          █████████████████████░░░░   70 % 
