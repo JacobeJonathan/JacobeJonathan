@@ -25,15 +25,10 @@ SQL       y - hrs - mins   █████████████████�
 Pyhton    y - hrs - mins   ██████████████████████░░░   80.18 % 
 DAX       y - hrs          ███████░░░░░░░░░░░░░░░░░    57.77 % 
 EXCEL     y - hrs          █████████████████████████   98.0 % 
-Tableu    y - hrs          █████████████████████████   15.72 % 
+IA    y - hrs              █████████████████████░░░░   70 % 
 ```
-<!--END_SECTION:waka-->
-🚧 **The 3 laws that primarily governed the Inca empire in Peru are:**
-<!-- TODO-IST:START -->
-🏆  Ama sua - Don't be a thief.          
-🌸  Ama llulla - Don't be a liar.          
-✅  Ama quella - Don't be idle.          
-<!-- TODO-IST:END -->
+
+
 
 <a align="center" href="https://www.linkedin.com/in/jonathanjacobemontes-/" target="_blank"><img align="center" src="https://i.ibb.co/09jMCcg/linkedin.png" alt="Buy Me A Coffee" width="30" target="_blank"></a>
 
