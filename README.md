@@ -5,7 +5,9 @@
 
 <h2 style="color:orange;">More about me</h2>  
 
-Soy Ingeniero de sistemas e informática colegiado, con  experiencia en Analisis de Datos transformando datos complejos en estrategias viables y resultados medibles. Actualmente estudiando una maestria en Data Science en miami Estados Unidos
+Soy ingeniero de Sistemas e Informática colegiado, con experiencia en análisis e ingeniería de datos. Me especializo en la transformación y procesamiento de datos estructurados, semiestructurados y no estructurados mediante arquitecturas batch, microbatch y streaming, convirtiendo información compleja en soluciones viables, conocimientos accionables y resultados medibles.
+Actualmente curso una maestría en Ciencia de Datos en Miami, Estados Unidos, y desarrollo proyectos relacionados con inteligencia artificial, automatización, analítica avanzada y soluciones basadas en datos.
+
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/3pAQUswTjSVEL39Fsc/giphy.gif" width="400" height="220" />
   
